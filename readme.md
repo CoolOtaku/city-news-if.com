@@ -1,4 +1,60 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img width="128" height="128" src="public/assets/img/logo.png"/></p>
+<h1 align="center">city-news-if</h1>
+
+## Description
+<b>EN:</b>
+
+This is a revised version of the web design course project that became my thesis ([citynewsi-f](https://github.com/CoolOtaku/citynewsi-f)).
+
+The topic of the site "News site of the city of Ivano-Frankivsk" is also the current weather. The possibility of site administration is foreseen. Using its own API.
+
+<b>UA:</b>
+
+Це доопрацьована версія курсового проекту по веб дизайну, яка стала моєю дипломною роботою ([citynewsi-f](https://github.com/CoolOtaku/citynewsi-f)).
+
+Тематика сайту "Сайт новин міста Івано-Франківськ", також є поточна погода. Предбачина можливість адміністрування сайту. З використанням власного API.
+
+#
+## Screenshots
+<p>
+  <img src="screens/1.png" height="20%"/>
+  <img src="screens/2.png" height="20%"/>
+  <img src="screens/3.png" height="20%"/>
+  <img src="screens/4.png" height="20%"/>
+  <img src="screens/5.png" height="20%"/>
+  <img src="screens/6.png" height="20%"/>
+  <img src="screens/7.png" height="20%"/>
+  <img src="screens/8.png" height="20%"/>
+</p>
+
+#
+## Technologies used
+<b>EN:</b>
+- Using Bootstrap (front-end framework)
+- Using the Laravel framework
+- Using a MySQL database
+- Building your own API with Laravel
+- Authorization through Google
+- Using the weather API (www.meteoprog.ua)
+- Search for information and navigation on the site
+
+<b>UA:</b>
+- Використання Bootstrap (front-end framework)
+- Використання фреймворка Laravel
+- Використання бази даних MySQL
+- Створення власного API за допомогою Laravel
+- Авторизація через Google
+- Використання API погоди (www.meteoprog.ua)
+- Пошук інформації та навігація по сайту
+#
+## License
+```
+© 2022, CoolOtaku (ericspz531@gmail.com)
+```
+
+#
+## Framework
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
