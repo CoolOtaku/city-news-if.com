@@ -6,13 +6,13 @@
 
 This is a revised version of the web design course project that became my thesis ([citynewsi-f](https://github.com/CoolOtaku/citynewsi-f)).
 
-The topic of the site "News site of the city of Ivano-Frankivsk" is also the current weather. The possibility of site administration is foreseen. Using its own API.
+The topic of the site "News site of the city of **Ivano-Frankivsk**" is also the current weather. The possibility of site administration is foreseen. Using its own **API**.
 
 <b>UA:</b>
 
 Це доопрацьована версія курсового проекту по веб дизайну, яка стала моєю дипломною роботою ([citynewsi-f](https://github.com/CoolOtaku/citynewsi-f)).
 
-Тематика сайту "Сайт новин міста Івано-Франківськ", також є поточна погода. Предбачина можливість адміністрування сайту. З використанням власного API.
+Тематика сайту "Сайт новин міста **Івано-Франківськ**", також є поточна погода. Предбачина можливість адміністрування сайту. З використанням власного **API**.
 
 #
 ## Screenshots
@@ -30,22 +30,23 @@ The topic of the site "News site of the city of Ivano-Frankivsk" is also the cur
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Using the Laravel framework
-- Using a MySQL database
-- Building your own API with Laravel
-- Authorization through Google
-- Using the weather API (www.meteoprog.ua)
+- Using **Bootstrap** (front-end framework)
+- Using the **[Laravel](https://laravel.com)** framework
+- Using a **MySQL** database
+- Building your own **API** with **[Laravel](https://laravel.com)**
+- Authorization through **Google**
+- Using the weather **API** ([www.meteoprog.ua](https://www.meteoprog.com/ua/))
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Використання фреймворка Laravel
-- Використання бази даних MySQL
-- Створення власного API за допомогою Laravel
-- Авторизація через Google
-- Використання API погоди (www.meteoprog.ua)
+- Використання **Bootstrap** (front-end framework)
+- Використання фреймворка **[Laravel](https://laravel.com)**
+- Використання бази даних **MySQL**
+- Створення власного **API** за допомогою **[Laravel](https://laravel.com)**
+- Авторизація через **Google**
+- Використання **API** погоди ([www.meteoprog.ua](https://www.meteoprog.com/ua/))
 - Пошук інформації та навігація по сайту
+
 #
 ## License
 ```
