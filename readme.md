@@ -30,7 +30,10 @@ The topic of the site "News site of the city of **Ivano-Frankivsk**" is also the
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using the library [**jQuery**](https://jquery.com)
+- Using the library [**SweetAlert2**](https://sweetalert2.github.io)
+- Using the ***Cookie*** system
 - Using the **[Laravel](https://laravel.com)** framework
 - Using a **MySQL** database
 - Building your own **API** with **[Laravel](https://laravel.com)**
@@ -39,7 +42,10 @@ The topic of the site "News site of the city of **Ivano-Frankivsk**" is also the
 - Search for information and navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання бібліотеки [**SweetAlert2**](https://sweetalert2.github.io)
+- Використання системи ***Cookie***
 - Використання фреймворка **[Laravel](https://laravel.com)**
 - Використання бази даних **MySQL**
 - Створення власного **API** за допомогою **[Laravel](https://laravel.com)**
